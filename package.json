@@ -1,0 +1,14 @@
+{
+  "name": "4alltestes",
+  "version": "1.0.0",
+  "description": "Playwright Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Felipe",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.25.2"
+  }
+}
